@@ -1,0 +1,28 @@
+{
+  "Emp": [
+    {
+      "id": 1,
+      "name": "Rahul",
+      "email": "Rahulladrs17@gmail.com",
+      "phno": "4379887315"
+    },
+    {
+      "id": 2,
+      "name": "Alexandra",
+      "email": "Alexandra@gmail.com",
+      "phno": "4567789000"
+    },
+    {
+      "id": 3,
+      "name": "Amelia",
+      "email": "Amelia@gmail.com",
+      "phno": "4568779008"
+    },
+    {
+      "id": 4,
+      "name": "Audrey",
+      "email": "Audrey@gmail.com",
+      "phno": "5463789890"
+    }
+  ]
+}
